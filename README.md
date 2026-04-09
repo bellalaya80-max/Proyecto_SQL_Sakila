@@ -10,7 +10,7 @@ El objetivo es aplicar los conocimientos aprendidos en SQL, incluyendo consultas
 ├── BBDD_Proyecto_shakila_sinuser.sql  
 ├── README.md  
 ├── diagrama_sql.png  
-└── sakila_proyecto_terminado.sql  
+└── sakila_proyecto_terminado.reparado.sql  
 
 - `BBDD_Proyecto_shakila_sinuser.sql`: esquema y datos de la base de datos proporcionada.
 - `README.md`: descripción del proyecto, pasos seguidos y conclusiones.
